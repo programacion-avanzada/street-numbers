@@ -57,6 +57,8 @@ class App {
 
 ### La comparación
 Responder:
-1. ¿A qué conclusión arriba luego de este experimento?
-2. ¿Son todos los valores comparables?
+1. ¿A qué conclusión llega luego de este experimento?
+2. ¿Son todos los valores comparables entre sí? ¿Por qué?
 3. ¿Tuvo problemas con los tipos de dato?
+
+Escribir un pequeño informe comparando los resultados hallados y con el contenido de sus respuestas.
